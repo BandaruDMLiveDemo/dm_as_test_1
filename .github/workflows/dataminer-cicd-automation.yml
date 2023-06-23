@@ -27,8 +27,4 @@ jobs:
     secrets:
       # The API-key: generated in the DCP Admin app (https://admin.dataminer.services/) as authentication for a certain DataMiner System.
       api-key: ${{ secrets.DATAMINER_LAKSHMI_DEMO }}
-      solution-path: AutomationScript.sln
-      artifact-name: EmpowerHelloWorldV1
-      version: 1.0.1
-      build-number: ${{ github.run_number }}
       sonarCloudToken: ${{ secrets.SONAR_TOKEN }}
