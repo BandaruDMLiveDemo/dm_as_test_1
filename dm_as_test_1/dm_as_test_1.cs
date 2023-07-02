@@ -71,6 +71,7 @@ namespace dm_as_test_1
 			engine.GenerateInformation("Lakshmi Narasimham Bandaru Test 21 06 2023");
 			engine.GenerateInformation("Lakshmi Narasimham Bandaru Test 21 06 2023 commit 2");
 			engine.GenerateInformation("Lakshmi Narasimham Bandaru Test 23 06 2023 AFTER CICD Implementation");
+			engine.GenerateInformation("Lakshmi Narasimham Bandaru CICD Demo");
 		}
 	}
 }
