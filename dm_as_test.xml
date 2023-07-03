@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <DMSScript options="272" xmlns="http://www.skyline.be/automation">
-	<Name>dm_as_test</Name>
-	<Description></Description>
+	<Name>dm_demo_app_lakshmi</Name>
+	<Description>This is demo cicd config application</Description>
 	<Type>Automation</Type>
 	<Author>DESKTOP-FOQHDS5\sss</Author>
 	<CheckSets>FALSE</CheckSets>

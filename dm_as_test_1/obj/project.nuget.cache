@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvv6st/EG6QT+OhM4xJ5lIz2Qsql+Ya94QUXw2hRBSD0K4yN1HPZd8nncVcVnuM09Wb1BGAWrACikAjDEgxq3Q==",
+  "success": true,
+  "projectFilePath": "C:\\lab\\03072023\\skyline_communication_autoscript\\dm_as_test_1\\dm_as_test_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lakshminsb\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\lakshminsb\\.nuget\\packages\\sharpziplib\\0.86.0\\sharpziplib.0.86.0.nupkg.sha512",
+    "C:\\Users\\lakshminsb\\.nuget\\packages\\skyline.dataminer.dev.automation\\10.1.0.6\\skyline.dataminer.dev.automation.10.1.0.6.nupkg.sha512",
+    "C:\\Users\\lakshminsb\\.nuget\\packages\\skyline.dataminer.dev.common\\10.1.0.6\\skyline.dataminer.dev.common.10.1.0.6.nupkg.sha512",
+    "C:\\Users\\lakshminsb\\.nuget\\packages\\skyline.dataminer.files.protobufnet\\10.1.0.6\\skyline.dataminer.files.protobufnet.10.1.0.6.nupkg.sha512",
+    "C:\\Users\\lakshminsb\\.nuget\\packages\\skyline.dataminer.files.skyline.dataminer.storage.types\\10.1.0.6\\skyline.dataminer.files.skyline.dataminer.storage.types.10.1.0.6.nupkg.sha512",
+    "C:\\Users\\lakshminsb\\.nuget\\packages\\skyline.dataminer.files.slanalyticstypes\\10.1.0.6\\skyline.dataminer.files.slanalyticstypes.10.1.0.6.nupkg.sha512",
+    "C:\\Users\\lakshminsb\\.nuget\\packages\\skyline.dataminer.files.slloggerutil\\10.1.0.6\\skyline.dataminer.files.slloggerutil.10.1.0.6.nupkg.sha512",
+    "C:\\Users\\lakshminsb\\.nuget\\packages\\skyline.dataminer.files.slmanagedautomation\\10.1.0.6\\skyline.dataminer.files.slmanagedautomation.10.1.0.6.nupkg.sha512",
+    "C:\\Users\\lakshminsb\\.nuget\\packages\\skyline.dataminer.files.slnettypes\\10.1.0.6\\skyline.dataminer.files.slnettypes.10.1.0.6.nupkg.sha512",
+    "C:\\Users\\lakshminsb\\.nuget\\packages\\skyline.dataminer.files.slprotobuflibrary\\10.1.0.6\\skyline.dataminer.files.slprotobuflibrary.10.1.0.6.nupkg.sha512",
+    "C:\\Users\\lakshminsb\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
